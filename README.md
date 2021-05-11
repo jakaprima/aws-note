@@ -1,0 +1,2 @@
+# aws-note
+operational reminder
